@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vulgarvelma
+vulgarvelma.so
+vulgarvelma.dylib
+vulgarvelma.dll
+vulgarvelma.a
+vulgarvelma.lib
+vulgarvelma-test-*
+*.exe
+*.o
+*.obj
+*.lst

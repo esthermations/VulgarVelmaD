@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"Esther O'Keefe"
+	],
+	"copyright": "Copyright © 2020, Esther O'Keefe",
+	"dependencies": {
+		"twitchapid": "~>0.4.1",
+		"dcord": "~>0.0.5"
+	},
+	"description": "A Twitch and Discord bot\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[D\u001B[Dvulgar Twitch and Discord bot",
+	"license": "MPL-2.0",
+	"name": "vulgarvelma",
+	"targetType": "executable"
+}
